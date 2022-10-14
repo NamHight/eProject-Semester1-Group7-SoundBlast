@@ -21,7 +21,7 @@ eProject published at: https://namhight.github.io/eProject-Semester1-Group7-Soun
 
 ============================
 
-eProject video published at: https://youtu.be/9cplPkNDKxw
+eProject video published at: https://www.youtube.com/watch?v=yoLAPgU4JBA
 
 ============================
 
