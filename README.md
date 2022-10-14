@@ -13,7 +13,7 @@ Group members Name Student ID
                 Trương Ngô Manh Đan      Student1387827
 ============================
 
-eProject documentation at: https://github.com/levietdongqt/Persol/tree/main/Review
+eProject documentation at: https://github.com/NamHight/eProject-Semester1-Group7-SoundBlast/tree/main/form
 
 ============================
 
