@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "songName":"On My Way <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/taylor/1.jpg"
+    },
+    {
+        "id":2,
+        "songName":"Fade <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/taylor/2.jpg"
+    },
+    {
+        "id":3,
+        "songName": "Cartoon - On & On <br><div class=\"subtitle\"> Daniel Levi</div>",
+        "poster": "img/taylor/3.jpg"
+    },
+    {
+        "id":4,
+        "songName": "Break My Soul <br><div class=\"subtitle\">Beyonce</div>",
+        "poster": "img/taylor/4.jpg"
+    },
+    {
+        "id":5,
+        "songName": "One More Chance <br><div class=\"subtitle\">Selena Gomez</div>",
+        "poster": "img/taylor/5.jpg"
+    },
+    {
+        "id":6,
+        "songName": "Sons Of Zion <br><div class=\"subtitle\">The Weekend</div>",
+        "poster": "img/taylor/6.jpg"
+    },
+    {
+        "id":7,
+        "songName": "Enchanted <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/7.jpg"
+    },
+    {
+        "id":8,
+        "songName": "Betty <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/8.jpg"
+    },
+    {
+        "id":9,
+        "songName": "Blank Space <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/9.jpg"
+    },
+    {
+        "id":10,
+        "songName": "Gorgeous <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/10.jpg"
+    },
+    {
+        "id":11,
+        "songName": "Love Story <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/11.jpg"
+    },
+    {
+        "id":12,
+        "songName": "The 1 <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/12.jpg"
+    },
+    {
+        "id":13,
+        "songName": "Mad Woman <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/13.jpg"
+    },
+    {
+        "id":14,
+        "songName": "Mirrorball <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/14.jpg"
+    },
+    {
+        "id":15,
+        "songName": "Peace <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/15.jpg"
+    },
+    {
+        "id":16,
+        "songName": "Seven <br><div class=\"subtitle\">Taylor Swift</div>",
+        "poster": "img/taylor/16.jpg"
+    }
+]

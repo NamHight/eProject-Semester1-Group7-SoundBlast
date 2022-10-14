@@ -1,0 +1,82 @@
+[
+    {
+        "href" : "taylor.html",
+        "poster" : "img/top artist/taylor.jpg",
+        "title" : "Taylor Swift"
+    },
+    {
+        "href" : "alan.html",
+        "poster" : "img/top artist/alann.jpg",
+        "title" : "Alan Walker"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/adele.jpg",
+        "title" : "Adele"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/ariana.jpg",
+        "title" : "Ariana Grande"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/beyonce.jpg",
+        "title" : "Beyonce"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/brown.jpg",
+        "title" : "Chris Brown"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/charli.jpg",
+        "title" : "Charlie Puth"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/kati.jpg",
+        "title" : "Katy Perry"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/justin.jpg",
+        "title" : "Justin Bieber"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/rihana.jpg",
+        "title" : "Rihanna"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/theweekn.jpg",
+        "title" : "The Weekend"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/williams.jpg",
+        "title" : "The Weekend"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/adam.jpg",
+        "title" : "The Weekend"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/Ed.jpg",
+        "title" : "The Weekend"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/Timberlake.jpg",
+        "title" : "The Weekend"
+    },
+    {
+        "href" : "#",
+        "poster" : "img/top artist/theweekn.jpg",
+        "title" : "The Weekend"
+    }
+]

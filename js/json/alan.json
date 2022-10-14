@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "songName":"On My Way <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/1.jpg"
+    },
+    {
+        "id":2,
+        "songName":"Fade <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/2.jpg"
+    },
+    {
+        "id":3,
+        "songName": "Cartoon - On & On <br><div class=\"subtitle\"> Daniel Levi</div>",
+        "poster": "img/alan/3.jpg"
+    },
+    {
+        "id":4,
+        "songName": "Break My Soul <br><div class=\"subtitle\">Beyonce</div>",
+        "poster": "img/alan/4.jpg"
+    },
+    {
+        "id":5,
+        "songName": "One More Chance <br><div class=\"subtitle\">Selena Gomez</div>",
+        "poster": "img/alan/5.jpg"
+    },
+    {
+        "id":6,
+        "songName": "Sons Of Zion <br><div class=\"subtitle\">The Weekend</div>",
+        "poster": "img/alan/6.jpg"
+    },
+    {
+        "id":7,
+        "songName": "Fade <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/7.jpg"
+    },
+    {
+        "id":8,
+        "songName": "All Falls Down <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/8.jpg"
+    },
+    {
+        "id":9,
+        "songName": "Alone <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/9.jpg"
+    },
+    {
+        "id":10,
+        "songName": "Darkside <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/10.jpg"
+    },
+    {
+        "id":11,
+        "songName": "Lily <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/11.jpg"
+    },
+    {
+        "id":12,
+        "songName":"Believers <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/alan/12.jpg"
+    },
+    {
+        "id":13,
+        "songName": "Blue <br><div class=\"subtitle\"> Daniel Levi</div>",
+        "poster": "img/alan/13.jpg"
+    },
+    {
+        "id":14,
+        "songName": "Force <br><div class=\"subtitle\">Beyonce</div>",
+        "poster": "img/alan/14.jpg"
+    },
+    {
+        "id":15,
+        "songName": "Paradise <br><div class=\"subtitle\">Selena Gomez</div>",
+        "poster": "img/alan/15.jpg"
+    },
+    {
+        "id":16,
+        "songName": "Routine <br><div class=\"subtitle\">The Weekend</div>",
+        "poster": "img/alan/16.jpg"
+    }
+]

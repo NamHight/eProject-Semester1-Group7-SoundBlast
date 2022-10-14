@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "songName":"On My Way <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/albums/1.jpg"
+    },
+    {
+        "id":2,
+        "songName":"Fade <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/albums/2.jpg"
+    },
+    {
+        "id":3,
+        "songName": "Cartoon - On & On <br><div class=\"subtitle\"> Daniel Levi</div>",
+        "poster": "img/albums/3.jpg"
+    },
+    {
+        "id":4,
+        "songName": "Break My Soul <br><div class=\"subtitle\">Beyonce</div>",
+        "poster": "img/albums/4.jpg"
+    },
+    {
+        "id":5,
+        "songName": "One More Chance <br><div class=\"subtitle\">Selena Gomez</div>",
+        "poster": "img/albums/5.jpg"
+    },
+    {
+        "id":6,
+        "songName": "Sons Of Zion <br><div class=\"subtitle\">The Weekend</div>",
+        "poster": "img/albums/6.jpg"
+    },
+    {
+        "id":7,
+        "songName": "At It Was <br><div class=\"subtitle\">Harry Styles</div>",
+        "poster": "img/albums/7.jpg"
+    },
+    {
+        "id":8,
+        "songName": "Easy On Me <br><div class=\"subtitle\">Adele</div>",
+        "poster": "img/albums/8.jpg"
+    },
+    {
+        "id":9,
+        "songName": "Eat the Music <br><div class=\"subtitle\">Kate Bush</div>",
+        "poster": "img/albums/9.jpg"
+    },
+    {
+        "id":10,
+        "songName": "Stay <br><div class=\"subtitle\">Justin Beiber</div>",
+        "poster": "img/albums/10.jpg"
+    },
+    {
+        "id":11,
+        "songName":"Sunroof <br><div class=\"subtitle\">Nicky Youre, Dazy</div>",
+        "poster": "img/albums/11.jpg"
+    },
+    {
+        "id":12,
+        "songName":"Magic <br><div class=\"subtitle\">Charlie Puth</div>",
+        "poster": "img/albums/12.jpg"
+    }
+]

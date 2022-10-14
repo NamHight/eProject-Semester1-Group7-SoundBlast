@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "songName": "At It Was <br><div class=\"subtitle\">Harry Styles</div>",
+        "poster": "img/newreleases/1.jpg"
+    },
+    {
+        "id":2,
+        "songName": "Easy On Me <br><div class=\"subtitle\">Adele</div>",
+        "poster": "img/newreleases/2.jpg"
+    },
+    {
+        "id":3,
+        "songName": "Running Up That Hill <br><div class=\"subtitle\">Kate Bush</div>",
+        "poster": "img/newreleases/3.jpg"
+    },
+    {
+        "id":4,
+        "songName": "Stay <br><div class=\"subtitle\"> Justin Beiber</div>",
+        "poster": "img/newreleases/4.jpg"
+    },
+    {
+        "id":5,
+        "songName":"Sunroof <br><div class=\"subtitle\">Nicky Youre, Dazy</div>",
+        "poster": "img/newreleases/5.jpg"
+    },
+    {
+        "id":6,
+        "songName":"We Don't Talk Anymore <br><div class=\"subtitle\">Charlie Puth</div>",
+        "poster": "img/newreleases/6.jpg"
+    },
+    {
+        "id":7,
+        "songName": "Bad Habit <br><div class=\"subtitle\">Steve Lacy</div>",
+        "poster": "img/newreleases/7.jpg"
+    },
+    {
+        "id":8,
+        "songName": "Late Night talking <br><div class=\"subtitle\">Harry Styles</div>",
+        "poster": "img/newreleases/8.jpg"
+    },
+    {
+        "id":9,
+        "songName": "Magic <br><div class=\"subtitle\">Charlie Puth</div>",
+        "poster": "img/newreleases/9.jpg"
+    },
+    {
+        "id":10,
+        "songName": "Me Porto Bonito <br><div class=\"subtitle\">Bad Bunny</div>",
+        "poster": "img/newreleases/10.jpg"
+    },
+    {
+        "id":11,
+        "songName": "Oh My God <br><div class=\"subtitle\">Adele</div>",
+        "poster": "img/newreleases/11.jpg"
+    },
+    {
+        "id":12,
+        "songName": "Spectre <br><div class=\"subtitle\">Alan Walker</div>",
+        "poster": "img/newreleases/12.jpg"
+    },
+    {
+        "id":13,
+        "songName": "Tití Me Preguntó <br><div class=\"subtitle\">Bad Bunny</div>",
+        "poster": "img/newreleases/13.jpg"
+    },
+    {
+        "id":14,
+        "songName": "Vegas <br><div class=\"subtitle\">Doja Cat</div>",
+        "poster": "img/newreleases/14.jpg"
+    },
+    {
+        "id":15,
+        "songName": "Wait For U <br><div class=\"subtitle\">Future, Drake, Tems</div>",
+        "poster": "img/newreleases/15.jpg"
+    }
+]
